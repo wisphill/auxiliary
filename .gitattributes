@@ -1,0 +1,2 @@
+# Keep text files in the repository and working tree in Unix (LF) format.
+* text=auto eol=lf
